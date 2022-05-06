@@ -46,7 +46,7 @@ Global Styles
 body {
   font-family: var(--primaryFont);
   color: var(--mainBlack);
-  background: var(--mainBackground);
+  background: "red";
   line-height: 1.4;
   font-size: 1rem;
   font-weight: 300;
